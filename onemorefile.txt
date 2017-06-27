@@ -1,1 +1,3 @@
+
 this is a second file
+the first line is blank for some reason
